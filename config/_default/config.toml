@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://spark-your-heart-ablaze.github.io/notion-blog/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
