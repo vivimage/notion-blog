@@ -1,4 +1,4 @@
-baseURL = "https://spark-your-heart-ablaze.github.io/notion-blog/"
+baseURL = "http://vivimagery.com/"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
